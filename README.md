@@ -26,8 +26,6 @@ Welcome to my GitHub! I’m passionate about combining **data science**, **machi
 
 ## 🛠️ Tools & Technologies
 
-## 🛠️ Tools & Technologies
-
 - **Python**
 - **TensorFlow**
 - **PyTorch**
@@ -44,9 +42,8 @@ To leverage advanced **machine learning** and **geospatial intelligence** to dri
 ---
 
 ## 📫 Let’s Connect
-- [LinkedIn](#) *(Insert your LinkedIn link)*
-- [Twitter](#) *(Insert your Twitter link)*
-- [Website/Portfolio](#) *(Insert your website/portfolio link)*
+- [LinkedIn](#) *(https://www.linkedin.com/in/ayebawanaemi-winston-784204230)*
+
 
 ---
 
