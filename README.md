@@ -48,4 +48,4 @@ To leverage advanced **machine learning** and **geospatial intelligence** to dri
 
 ---
 
-⭐ **Interested in collaborations on Climate Tech, Environmental Data Science, or AI for Sustainability? Feel free to reach out!*
+⭐ **Interested in collaborations on Climate Tech, Environmental Data Science, or AI for Sustainability? Feel free to reach out!**
