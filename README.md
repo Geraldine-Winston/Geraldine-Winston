@@ -25,13 +25,14 @@ Welcome to my GitHub! I’m passionate about combining **data science**, **machi
 ---
 
 ## 🛠️ Tools & Technologies
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"> 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="28"> 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="28"> 
-<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" height="28"> 
-<img src="https://img.shields.io/badge/ArcGIS-0078D7?style=for-the-badge&logo=esri&logoColor=white" height="28"> 
-<img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" height="28"> 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="28">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-0078D7?style=for-the-badge&logo=esri&logoColor=white)
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
@@ -47,7 +48,4 @@ To leverage advanced **machine learning** and **geospatial intelligence** to dri
 
 ---
 
-⭐ **Interested in collaborations on Climate Tech, Environmental Data Science, or AI for Sustainability? Feel free to reach out!**
-
-
-⭐ **Interested in collaborations on Climate Tech, Environmental Data Science, or AI for Sustainability? Feel free to reach out!**
+⭐ **Interested in collaborations on Climate Tech, Environmental Data Science, or AI for Sustainability? Feel free to reach out!*
