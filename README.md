@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ayebawanaemi Geraldine Winston
 
-🌍 **Environmental Geoscientist** | **Data Scientist** | **Climate Tech Enthusiast**
+🌍 **Data Scientist** | **Climate Tech Enthusiast** | **Environmental Geoscientist**
 
 Welcome to my GitHub! I’m passionate about combining **data science**, **machine learning**, and **geospatial technologies** to solve complex environmental and climate challenges. My work focuses on developing sustainable solutions through the lens of innovation and research.
 
